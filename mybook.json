@@ -1,20 +1,8 @@
 {
-	"book-title": "Incredible book",
+	"book-title": "Incredible new book",
 	"byline": "by Brian Haferkamp",
-	"image": "https://unsplash.it/1500",
+	"image": "https://unsplash.it/1500/500?image=101",
 	"new-chapter": [
-		{
-			"chapter-title": "Chapter Title",
-			"chapter-text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est odit fugiat quisquam illum eos atque numquam, dignissimos minus dolor commodi voluptatem consequatur maiores dolorem provident, vitae consectetur itaque possimus eligendi!"
-		},
-		{
-			"chapter-title": "Chapter Title",
-			"chapter-text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est odit fugiat quisquam illum eos atque numquam, dignissimos minus dolor commodi voluptatem consequatur maiores dolorem provident, vitae consectetur itaque possimus eligendi!"
-		},
-		{
-			"chapter-title": "Chapter Title",
-			"chapter-text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est odit fugiat quisquam illum eos atque numquam, dignissimos minus dolor commodi voluptatem consequatur maiores dolorem provident, vitae consectetur itaque possimus eligendi!"
-		},
 		{
 			"chapter-title": "Chapter Title",
 			"chapter-text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est odit fugiat quisquam illum eos atque numquam, dignissimos minus dolor commodi voluptatem consequatur maiores dolorem provident, vitae consectetur itaque possimus eligendi!"
