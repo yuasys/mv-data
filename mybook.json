@@ -4,8 +4,12 @@
 	"image": "https://unsplash.it/1500/500?image=101",
 	"new-chapter": [
 		{
-			"chapter-title": "Chapter Title",
-			"chapter-text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est odit fugiat quisquam illum eos atque numquam, dignissimos minus dolor commodi voluptatem consequatur maiores dolorem provident, vitae consectetur itaque possimus eligendi!"
+			"chapter-title": "Introducation",
+			"chapter-text": "<p>This is the introduction. Isn't it lovely? It talks about the book and what to expect with each chapter.</p>"
+		},
+		{
+			"chapter-title": "Chapter 1",
+			"chapter-text": "<p>This is chapter 1. Isn't it awesome? Lots of great, amazing thoughts here.</p>"
 		}
 	]
 }
