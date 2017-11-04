@@ -1,0 +1,11 @@
+{
+	"book-title": "amazing new book",
+	"byline": "by Me",
+	"image": "https://unsplash.it/1500",
+	"new-chapter": [
+		{
+			"chapter-title": "Chapter Title",
+			"chapter-text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est odit fugiat quisquam illum eos atque numquam, dignissimos minus dolor commodi voluptatem consequatur maiores dolorem provident, vitae consectetur itaque possimus eligendi!"
+		}
+	]
+}
