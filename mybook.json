@@ -1,6 +1,6 @@
 {
 	"book-title": "Incredible new book",
-	"byline": "by Brian Haferkamp",
+	"byline": "by <a href=\"google.com\">James Haferkamp</a>",
 	"image": "https://unsplash.it/1500/500?image=108",
 	"new-chapter": [
 		{
