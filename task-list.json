@@ -3,12 +3,6 @@
 	"new-task": [
 		{
 			"task": "Some new task for the day"
-		},
-		{
-			"task": "Here's a second task"
-		},
-		{
-			"task": "And one more for good measure"
 		}
 	]
 }
