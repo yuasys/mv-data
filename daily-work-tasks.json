@@ -1,0 +1,8 @@
+{
+	"site-title": "List Title",
+	"new-task": [
+		{
+			"task": "Add a New Task. You can use Markdown for styling."
+		}
+	]
+}
