@@ -2,13 +2,7 @@
 	"site-title": "To Do",
 	"new-task": [
 		{
-			"task": "# CLASB Devo\n\n* Finish hiding dates\n* Hide \"View Online\"\n* Add return to home on archive emails"
-		},
-		{
-			"task": "### Display Widget on webminis\n\nActivate and run the new widget display option plugin"
-		},
-		{
-			"task": "#### Christian Basics\n\nSet up the WP install for multisite and add _s theme file"
+			"task": "new task"
 		}
 	]
 }
