@@ -1,8 +1,14 @@
 {
-	"site-title": "List Title",
+	"site-title": "My Daily Tasks",
 	"new-task": [
 		{
-			"task": "Add a New Task. You can use Markdown for styling."
+			"task": "# CLASB Devo\n\n- Finish hiding dates\n- Hide \"View Online\"\n- Add return to index page link on archives"
+		},
+		{
+			"task": "### Display Widget\n\nActivate and run new display widget on webminis"
+		},
+		{
+			"task": "#### Christian Basics\n\n- set up WP multisite\n- download and install _s theme"
 		}
 	]
 }
