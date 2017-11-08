@@ -2,7 +2,10 @@
 	"site-title": "To Do",
 	"new-task": [
 		{
-			"task": "Some new task for the day"
+			"task": "# CLASB Devo\n\n* Finish hiding dates\n* Hide \"View Online\"\n* Add return to home on archive emails"
+		},
+		{
+			"task": "## Display Widget on webminis\n\nActivate and run the new widget display option plugin"
 		}
 	]
 }
