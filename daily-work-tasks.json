@@ -2,9 +2,6 @@
 	"site-title": "My Daily Tasks",
 	"new-task": [
 		{
-			"task": "# CLASB Devo\n\n- ~~Finish hiding dates~~\n- ~~Add return to index page link on archives~~\n- ~~Hide \"View Online\"~~"
-		},
-		{
 			"task": "### Display Widget\n\nActivate and run new display widget on webminis"
 		},
 		{
