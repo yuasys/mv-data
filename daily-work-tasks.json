@@ -2,10 +2,10 @@
 	"site-title": "My Daily Tasks",
 	"new-task": [
 		{
-			"task": "### Display Widget\n\nActivate and run new display widget on webminis"
+			"task": "#### Christian Basics\n\n- set up WP multisite\n- download and install _s theme"
 		},
 		{
-			"task": "#### Christian Basics\n\n- set up WP multisite\n- download and install _s theme"
+			"task": "### Display Widget\n\nActivate and run new display widget on webminis"
 		}
 	]
 }
