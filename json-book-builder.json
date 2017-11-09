@@ -1,0 +1,16 @@
+{
+	"book-image": "https://files.tyndale.com/thpdata/images--covers/HiResJPG/978-1-62405-354-2.jpg?width=330",
+	"book-title": "Book Title",
+	"book-subtitle": "Book Subtitle goes here",
+	"book-author": "Book Author",
+	"publish-date": "Year Published",
+	"trim-size": "Trim Size",
+	"pages": "Pages",
+	"isbn": "ISBN",
+	"chapter": [
+		{
+			"chapter-title": "Chapter Title",
+			"chapter-text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid at sit maiores laboriosam sed, exercitationem deleniti debitis quaerat voluptatum doloremque, iusto quibusdam cupiditate dolorum voluptas hic eum doloribus ea consectetur?"
+		}
+	]
+}
