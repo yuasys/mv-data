@@ -1,0 +1,16 @@
+{
+	"bookimage": "https://placehold.it/300x400",
+	"booktitle": "Book Title",
+	"booksubtitle": "Book Subtitle",
+	"bookauthor": "Book Author",
+	"publishdate": "Year Published",
+	"trimsize": "Trim Size",
+	"pages": "Pages",
+	"isbn": "ISBN",
+	"chapters": [
+		{
+			"chaptertitle": "Preface",
+			"chaptertext": "The following brief messages comprise a revision of two addresses, which originally appeared in the South African Pioneer, the organ of the \"Cape General Mission\" (Rev. Andrew Murray, Pres.), and are published by arrangement, the Mission participating in the proceeds."
+		}
+	]
+}
