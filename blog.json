@@ -1,5 +1,7 @@
 {
 	"profile-image": "http://fillmurray.com/200/200",
 	"profile-name": "Bill Murray",
-	"profile-status": "Looking awesome today. Well, as always ;-)"
+	"profile-status": "Looking awesome today. Well, as always ;-)",
+	"post-headline": "Post Headline",
+	"post": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
 }
