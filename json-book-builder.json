@@ -12,5 +12,12 @@
 			"chapter-title": "Preface",
 			"chapter-text": "The following brief messages comprise a revision of two addresses, which originally appeared in the South African Pioneer, the organ of the \"Cape General Mission\" (Rev. Andrew Murray, Pres.), and are published by arrangement, the Mission participating in the proceeds."
 		}
+	],
+	"chapters": [
+		{
+			"chapter-title": "Something",
+			"chapter-subtitle": "Chapter Subtitle",
+			"chapter-text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid at sit maiores laboriosam sed, exercitationem deleniti debitis quaerat voluptatum doloremque, iusto quibusdam cupiditate dolorum voluptas hic eum doloribus ea consectetur?"
+		}
 	]
 }
