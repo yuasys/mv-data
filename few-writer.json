@@ -1,12 +1,12 @@
 {
 	"post-widget": [
 		{
-			"post-sidebar-widget-header": "Widget Header",
-			"post-sidebar-widget-text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor esse voluptatum eius ut harum! Itaque eum illum eos, ab quos dicta ducimus recusandae cumque similique!"
+			"post-sidebar-widget-header": "Brian Haferkamp",
+			"post-sidebar-widget-text": "I'm a web developer near Chicago."
 		}
 	],
 	"post-name": "Post Title",
-	"post-image": "http://placehold.it/600",
+	"post-image": "http://fillmurray.com/600/600",
 	"post-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ultrices erat dapibus ornare finibus. Quisque auctor et neque sit amet accumsan.",
 	"contents-header": "My Posts",
 	"contents-item": [
@@ -21,8 +21,8 @@
 	],
 	"collection": [
 		{
-			"post-link": "/",
-			"post-title": "Post Title"
+			"post-link": "/post-template.html",
+			"post-title": "Awesome new post title"
 		}
 	],
 	"post-title": "Post Title"
