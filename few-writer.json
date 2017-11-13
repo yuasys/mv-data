@@ -21,6 +21,9 @@
 	],
 	"collection": [
 		{
+			"post-title": "Post number two"
+		},
+		{
 			"post-name": "Post Title",
 			"post-text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor esse voluptatum eius ut harum! Itaque eum illum eos, ab quos dicta ducimus recusandae cumque similique! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat repudiandae enim et sint. Dolor esse voluptatum eius ut harum! Itaque eum illum eos, ab quos dicta ducimus recusandae cumque similique!",
 			"post-link": "/post-template.html",
