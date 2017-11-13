@@ -21,7 +21,7 @@
 	],
 	"collection": [
 		{
-			"post-link": "/post-template.html",
+			"post-link": "post-template.html",
 			"post-title": "Awesome new post title"
 		}
 	],
