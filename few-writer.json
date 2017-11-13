@@ -3,6 +3,10 @@
 		{
 			"post-sidebar-widget-header": "Brian Haferkamp",
 			"post-sidebar-widget-text": "I'm a web developer near Chicago."
+		},
+		{
+			"post-sidebar-widget-header": "Best Parts of the Day",
+			"post-sidebar-widget-text": "- Morning\n- Afternoon\n- Night"
 		}
 	],
 	"post-name": "Post Title",
