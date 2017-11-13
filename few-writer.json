@@ -1,13 +1,13 @@
 {
 	"post-widget": [
 		{
-			"post-sidebar-widget-header": "A Little Sumthin'",
+			"post-sidebar-widget-header": "Widget Header",
 			"post-sidebar-widget-text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor esse voluptatum eius ut harum! Itaque eum illum eos, ab quos dicta ducimus recusandae cumque similique!"
 		}
 	],
 	"post-name": "Post Title",
-	"post-image": "http://fillmurray.com/600/600",
-	"post-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ultrices erat dapibus ornare finibus. Quisque auctor et neque sit amet accumsan. Morbi maximus consequat justo vel mattis. Nam laoreet, turpis ut mollis posuere, ex libero lacinia enim, non maximus nisl neque at nulla. Vestibulum varius tincidunt fringilla. Nunc dapibus congue eros, vel mollis metus rutrum at. Curabitur sapien nibh, pellentesque ut justo in, rutrum posuere purus. Sed laoreet consequat metus, vel bibendum odio vehicula quis.\n\nPraesent consectetur tempus metus, sit amet vulputate nunc ullamcorper eget. Aliquam scelerisque, dui eget euismod scelerisque, arcu ex auctor est, eget varius mauris quam vitae massa. Maecenas auctor elit sed massa sodales, ut tristique ligula cursus. Aliquam condimentum dignissim luctus. Aenean et placerat risus. In eget risus nec justo efficitur maximus quis sed mi. Proin ac neque augue. Maecenas hendrerit nec diam in commodo. Phasellus cursus, ligula ac sollicitudin egestas, lorem augue imperdiet nulla, ut dignissim neque ex et leo. Nam vel elit congue, porttitor sem in, cursus leo. Vivamus ut nunc id quam porta finibus ut at felis. Phasellus hendrerit mattis nunc, quis lacinia libero mattis quis. Donec elit magna, pellentesque rhoncus commodo quis, rhoncus ut augue. Ut consequat nibh varius faucibus ullamcorper.\n\nPraesent luctus, turpis non luctus convallis, elit dolor molestie quam, sit amet placerat orci libero quis mi. Morbi sit amet justo lectus. Curabitur rutrum lacus in nunc feugiat euismod. Vivamus aliquet quam at mollis pellentesque. Sed maximus velit nibh, a scelerisque magna dapibus at. Vestibulum non metus et lorem tincidunt blandit sit amet nec ipsum. Etiam imperdiet vel lorem sit amet congue. Morbi ornare, urna vel placerat finibus, magna ligula maximus metus, id malesuada nisl urna quis diam. Donec lobortis, nunc vel scelerisque imperdiet, magna lectus gravida nisl, eu tincidunt elit augue vel risus. Vivamus non nulla ut ante pulvinar interdum sit amet posuere tellus. Curabitur iaculis lectus porttitor, placerat mauris sed, accumsan dolor. Vestibulum aliquet faucibus felis non commodo. Etiam quis porta libero. Mauris cursus ultricies dolor non blandit. Curabitur ornare arcu sit amet odio hendrerit, eget maximus neque condimentum.\n\nNam at bibendum lacus, egestas accumsan risus. Donec et bibendum velit, vitae porta est. Phasellus et molestie nibh. Nunc in condimentum libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed eu semper massa. Donec elementum fermentum nunc vitae laoreet. Vestibulum quis est vel urna aliquet vulputate. Nullam ultricies libero sed nibh consequat, nec vestibulum nibh luctus. Maecenas consequat ultrices nibh, a molestie libero ullamcorper et. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc congue nisl mi, vulputate venenatis arcu commodo vitae.\n\nMauris sit amet vehicula nisl. Etiam at felis quis ipsum laoreet pharetra ac sit amet risus. Quisque scelerisque, ante ultricies venenatis sagittis, dui nunc dignissim velit, sit amet hendrerit ipsum lorem nec nisi. Fusce tellus nibh, tempor vel nunc ac, interdum ultrices odio. Suspendisse pretium leo urna, sodales ornare felis cursus nec. In eu nisi nisi. Sed id ex vitae dolor sagittis dapibus. Aenean sagittis tortor quis egestas semper. Fusce a ultrices quam. Vestibulum feugiat arcu interdum lobortis ultrices. Sed eleifend eros id ornare luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+	"post-image": "http://placehold.it/600",
+	"post-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ultrices erat dapibus ornare finibus. Quisque auctor et neque sit amet accumsan.",
 	"contents-header": "My Posts",
 	"contents-item": [
 		"New Contents Item",
@@ -25,5 +25,5 @@
 			"post-title": "Nunc dapibus congue eros, vel mollis metus rutrum at"
 		}
 	],
-	"post-title": "Nunc dapibus congue eros, vel mollis metus rutrum at"
+	"post-title": "Post Title"
 }
