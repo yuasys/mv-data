@@ -21,8 +21,8 @@
 	],
 	"collection": [
 		{
-			"post-link": "/",
-			"post-title": "Post Title"
+			"post-link": "/post-template.html",
+			"post-title": "Nunc dapibus congue eros, vel mollis metus rutrum at"
 		}
 	],
 	"post-title": "Nunc dapibus congue eros, vel mollis metus rutrum at"
