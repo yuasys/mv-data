@@ -6,6 +6,10 @@
 		{
 			"widget-header": "Widget Header",
 			"widget-text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus rerum libero enim commodi expedita molestiae, modi veniam at vero est!"
+		},
+		{
+			"widget-header": "New Widget",
+			"widget-text": "- List item 1 \n- List item 2"
 		}
 	],
 	"new-post": [
