@@ -3,8 +3,12 @@
 	"widget-image": "https://fillmurray.com/600/600",
 	"new-widget": [
 		{
-			"widget-header": "Widget Header",
-			"widget-text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus rerum libero enim commodi expedita molestiae, modi veniam at vero est!"
+			"widget-header": "About Me",
+			"widget-text": "I make stuff."
+		},
+		{
+			"widget-header": "New Widget",
+			"widget-text": "- List Item 1\n\n~~Cool~~"
 		}
 	],
 	"new-post": [
