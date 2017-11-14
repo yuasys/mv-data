@@ -1,7 +1,7 @@
 {
 	"site-title": "My Blog",
 	"site-tagline": "I write about things other people only dream about",
-	"widget-image": "https://unsplash.it/600?image=305",
+	"widget-image": "https://fillmurray.com/600/600",
 	"new-widget": [
 		{
 			"widget-header": "Widget Header",
