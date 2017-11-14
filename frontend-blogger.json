@@ -1,0 +1,17 @@
+{
+	"site-title": "Front End Blogger",
+	"site-tagline": "I write about things other people only dream about",
+	"new-post": [
+		{
+			"post-title": "New Post Title",
+			"post-text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias eos qui incidunt magnam, nihil reprehenderit ipsa distinctio animi recusandae ad vel reiciendis quibusdam voluptas fugit! Mollitia ab placeat voluptates accusantium, quae praesentium natus eveniet? Minima velit, itaque eos praesentium sint quae debitis illum laudantium vitae ipsa pariatur, esse natus commodi!"
+		}
+	],
+	"widget-image": "https://fillmurray.com/600/600",
+	"new-widget": [
+		{
+			"widget-header": "Widget Header",
+			"widget-text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus rerum libero enim commodi expedita molestiae, modi veniam at vero est!"
+		}
+	]
+}
