@@ -7,6 +7,10 @@
 			"widget-text": "I make stuff."
 		},
 		{
+			"widget-header": "Link",
+			"widget-text": "<a href=\"https://google.com\">Go to Google</a>"
+		},
+		{
 			"widget-header": "New Widget",
 			"widget-text": "- List Item 1\n\n~~Cool~~"
 		}
