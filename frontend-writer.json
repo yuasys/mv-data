@@ -9,6 +9,10 @@
 	],
 	"new-post": [
 		{
+			"post-title": "Post Number Two",
+			"post-text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias eos qui incidunt magnam, nihil reprehenderit ipsa distinctio animi recusandae ad vel reiciendis quibusdam voluptas fugit! Mollitia ab placeat voluptates accusantium, quae praesentium natus eveniet? Minima velit, itaque eos praesentium sint quae debitis illum laudantium vitae ipsa pariatur, esse natus commodi!\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Molestias eos qui incidunt magnam, nihil reprehenderit ipsa distinctio animi recusandae ad vel reiciendis quibusdam voluptas fugit! Mollitia ab placeat voluptates accusantium, quae praesentium natus eveniet? Minima velit, itaque eos praesentium sint quae debitis illum laudantium vitae ipsa pariatur, esse natus commodi!\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Molestias eos qui incidunt magnam, nihil reprehenderit ipsa distinctio animi recusandae ad vel reiciendis quibusdam voluptas fugit! Mollitia ab placeat voluptates accusantium, quae praesentium natus eveniet? Minima velit, itaque eos praesentium sint quae debitis illum laudantium vitae ipsa pariatur, esse natus commodi!"
+		},
+		{
 			"post-title": "Some Post Title",
 			"post-text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias eos qui incidunt magnam, nihil reprehenderit ipsa distinctio animi recusandae ad vel reiciendis quibusdam voluptas fugit! Mollitia ab placeat voluptates accusantium, quae praesentium natus eveniet? Minima velit, itaque eos praesentium sint quae debitis illum laudantium vitae ipsa pariatur, esse natus commodi!"
 		}
