@@ -1,17 +1,21 @@
 {
-	"site-title": "Front End Blogger",
-	"site-tagline": "I write about things other people only dream about",
+	"site-title": "Using mavo",
+	"site-tagline": "Thoughts and tips on using Mavo.io",
 	"new-post": [
 		{
-			"post-title": "Some Post Title",
-			"post-text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias eos qui incidunt magnam, nihil reprehenderit ipsa distinctio animi recusandae ad vel reiciendis quibusdam voluptas fugit! Mollitia ab placeat voluptates accusantium, quae praesentium natus eveniet? Minima velit, itaque eos praesentium sint quae debitis illum laudantium vitae ipsa pariatur, esse natus commodi!"
+			"post-title": "First Impressions of Mavo",
+			"post-text": "Have you ever heard of Mavo.io? It's a relatively new editing script that bolts onto your existing HTML site and gives it super functionality, including front-end editing and content creation abilities. \n\nI've tried to implement my own versions of this using some basic jQuery but Mavo takes this far beyond anything I could have done. It's actively developed at the MIT computer science lab, and is headed by researcher and speaker, Lea Verou [@leaverou](https://twitter.com/leaverou). \n\nMy first impressions is that the power to transform a humble HTML/CSS site into a supercharged CMS is pretty amazing. To learn more, head over to the [Mavo website](http://mavo.io).\n\nThis blog has been developed with Mavo. The scripts have been bolted onto the HTML structure. To see the original code, check out this codepen:\n\nhttps://codepen.io/brianhaferkamp/pen/aVwrLQ\n\nFeel free to fork the code and make it your own. You'll need to change the mv-storage attribute to your own Github account to make changes. Otherwise, it will come to me as a pull request for this website (which is cool in it's own right). \n\nHere's what I love about Mavo:\n\n- You can author content in Markdown (with a version called, Showdown)\n- Content editing in the browser\n- Easy to understand code and implementation\n- Easy to deploy with any site\n- No database necessary\n- All the benefits of using Github, including versioning\n\nFor a small site or on a page-by-page basis, it's awesome.\n\nWith MIT behind it this project has an opportunity to change the way that we create websites and (probably) the influence software like WordPress has on the world. Now we have a tool for  those projects that need some data storage or user input but not a full-blown CMS. That's gotta be a game changer for a good portion of the sites on the Web."
 		}
 	],
-	"widget-image": "https://fillmurray.com/600/600",
+	"widget-image": "http://mavo.io/favicon.ico",
 	"new-widget": [
 		{
-			"widget-header": "Widget Header",
-			"widget-text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus rerum libero enim commodi expedita molestiae, modi veniam at vero est!"
+			"widget-header": "About this site",
+			"widget-text": "This is a space to write about using Mavo, an exciting new front end editor that bolts onto any HTML website. It gives you the ability to edit and create content without a relational database or advanced scripting.\n\n_This page is created and maintained using Mavo._"
+		},
+		{
+			"widget-header": "Why use Mavo?",
+			"widget-text": "- Author in Markdown\n- Connects to any site\n- No database necessary\n- Easy to deploy\n- Fast\n- Secure\n- Plays nice with HTML\n- Plays nice with SEO"
 		}
 	]
 }
