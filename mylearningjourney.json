@@ -10,5 +10,25 @@
 	"resourcethoughts": [
 		"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas eos beatae, iusto amet saepe aspernatur repellendus. Modi alias provident ullam!"
 	],
-	"resourcelinktext": "Link"
+	"resourcelinktext": "Link",
+	"mv-multiple": [
+		{
+			"resourcedate": "January 1, 2018",
+			"resourcetitle": "Resource Title",
+			"resourcelink": "#",
+			"resourcelinktext": "Link",
+			"resourcesummary": [
+				"Write your new paragraph here"
+			],
+			"resourcethoughts": [
+				"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas eos beatae, iusto amet saepe aspernatur repellendus. Modi alias provident ullam!"
+			]
+		},
+		{
+			"resourcesummary": [
+				"Write your new paragraph here"
+			],
+			"resourcethoughts": []
+		}
+	]
 }
