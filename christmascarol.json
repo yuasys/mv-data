@@ -1,3 +1,4 @@
+Access-Control-Allow-Origin: *
 {
 	"booktitle": "A Christmas Carol",
 	"bookauthor": "Charles Dickens",
