@@ -1,6 +1,14 @@
 {
 	"feedgroup": [
 		{
+			"category": "Video",
+			"feedlink": "https://youtu.be/gx3VDkWDx2o",
+			"feedtitle": "Where to Sit at Your Next Meeting",
+			"feedcontent": "![image](assets/img/where-to-sit.png)\n\nAccording to Vanessa Van Edwards, where you sit at a meeting table says something about your intent in the meeting. Find out what the seats mean and what strategy you should employ at your next conference or meeting.",
+			"feedbutton": "https://youtu.be/gx3VDkWDx2o",
+			"feedbuttontext": "Watch Video"
+		},
+		{
 			"category": "Tools",
 			"feedlink": "https://color.adobe.com/create/color-wheel/",
 			"feedtitle": "Adobe Color CC",
