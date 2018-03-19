@@ -1,12 +1,12 @@
 {
 	"feedgroup": [
 		{
-			"category": "Video",
-			"feedlink": "https://youtu.be/z4HjltaEV2E",
-			"feedtitle": "Design Theory",
-			"feedcontent": "![image](assets/img/design-theory.png)\n\nSome introductory text goes here",
-			"feedbutton": "https://youtu.be/z4HjltaEV2E",
-			"feedbuttontext": "Watch Video"
+			"category": "Tools",
+			"feedlink": "https://mavo.io/",
+			"feedtitle": "Mavo.io",
+			"feedcontent": "![image](assets/img/mavo.png)\n\nMavo allows you to create lightweight web applications without a back end. All of the data is stored locally in the browser or it can be saved remotely on Github or another location of your choice. This site is built with Mavo.",
+			"feedbutton": "https://mavo.io/",
+			"feedbuttontext": "Learn More"
 		}
 	]
 }
