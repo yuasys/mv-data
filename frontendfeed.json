@@ -2,6 +2,14 @@
 	"feedgroup": [
 		{
 			"category": "Video",
+			"feedlink": "https://youtu.be/EZpdEljk5dY",
+			"feedtitle": "Web APIs You Might Not Know Exist",
+			"feedcontent": "![image](assets/img/web-apis.png)\n\nWith the introduction of HTML5, the Web got a lot of new toys to play with. But this video shows some JavaScript APIs that you might not know exist.",
+			"feedbutton": "https://youtu.be/EZpdEljk5dY",
+			"feedbuttontext": "Watch Video"
+		},
+		{
+			"category": "Video",
 			"feedlink": "https://youtu.be/gx3VDkWDx2o",
 			"feedtitle": "Where to Sit at Your Next Meeting",
 			"feedcontent": "![image](assets/img/where-to-sit.png)\n\nAccording to Vanessa Van Edwards, where you sit at a meeting table says something about your intent in the meeting. Find out what the seats mean and what strategy you should employ at your next conference or meeting.",
