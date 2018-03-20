@@ -4,7 +4,7 @@
 			"category": "Link",
 			"feedlink": "https://v-fonts.com/",
 			"feedtitle": "Variable Fonts Playground",
-			"feedcontent": "A simple resource for finding and trying variable fonts. Just move the sliders to change the fonts in real time.",
+			"feedcontent": "![image](assets/img/v-fonts.png)\n\nA simple resource for finding and trying variable fonts. Just move the sliders to change the fonts in real time.",
 			"feedbutton": "https://v-fonts.com/",
 			"feedbuttontext": "Try It"
 		},
