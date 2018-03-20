@@ -1,6 +1,14 @@
 {
 	"feedgroup": [
 		{
+			"category": "Link",
+			"feedlink": "https://timkadlec.com/remembers/2018-03-19-how-fast-is-amp-really/",
+			"feedtitle": "How Fast is AMP Really?",
+			"feedcontent": "Tim Kadlec tests how fast Google AMP is by running 50 different news stories through a page speed test. The results are surprising.",
+			"feedbutton": "https://timkadlec.com/remembers/2018-03-19-how-fast-is-amp-really/",
+			"feedbuttontext": "Read Article"
+		},
+		{
 			"category": "Video",
 			"feedlink": "https://youtu.be/EZpdEljk5dY",
 			"feedtitle": "Web APIs You Might Not Know Exist",
