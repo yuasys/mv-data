@@ -4,7 +4,7 @@
 			"category": "Tools",
 			"feedlink": "https://brianhaferkamp.github.io/grid-maker/",
 			"feedtitle": "Grid Maker",
-			"feedcontent": "![image](assets/img/grid-maker.png)\n\nA tool to visually learn CSS Grid Layout. When you're done with your grid, you can export the HTML and CSS to add into your project. Supports the repeat() and minmax() methods.",
+			"feedcontent": "\n\nA tool to visually learn CSS Grid Layout. When you're done with your grid, you can export the HTML and CSS to add into your project. Supports the repeat() and minmax() methods.",
 			"feedbutton": "https://brianhaferkamp.github.io/grid-maker/",
 			"feedbuttontext": "Try It"
 		},
