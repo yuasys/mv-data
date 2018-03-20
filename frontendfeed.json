@@ -1,6 +1,14 @@
 {
 	"feedgroup": [
 		{
+			"category": "Link",
+			"feedlink": "https://v-fonts.com/",
+			"feedtitle": "Variable Fonts Playground",
+			"feedcontent": "A simple resource for finding and trying variable fonts. Just move the sliders to change the fonts in real time.",
+			"feedbutton": "https://v-fonts.com/",
+			"feedbuttontext": "Try It"
+		},
+		{
 			"category": "Video",
 			"feedlink": "https://youtu.be/_j27jNlgeQ8",
 			"feedtitle": "Simple Javascript Templating",
