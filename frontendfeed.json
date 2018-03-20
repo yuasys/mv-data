@@ -2,6 +2,14 @@
 	"feedgroup": [
 		{
 			"category": "Video",
+			"feedlink": "https://youtu.be/_j27jNlgeQ8",
+			"feedtitle": "Simple Javascript Templating",
+			"feedcontent": "![image](assets/img/javascript-templating.png)\n\nLearn how to create a simple Javascript template using data from HTML attributes.",
+			"feedbutton": "https://youtu.be/_j27jNlgeQ8",
+			"feedbuttontext": "Watch VIdeo"
+		},
+		{
+			"category": "Video",
 			"feedlink": "https://www.youtube.com/playlist?list=PLqGj3iMvMa4L_PVMlG3_KIN5QTSaZwLnn",
 			"feedtitle": "Playlist: Getting Started With Adobe XD",
 			"feedcontent": "![image](assets/img/adobe-xd-playlist.png)\n\nA playlist from the [DevTips for Designers channel on YouTube](https://www.youtube.com/user/DevTipsForDesigners). Travis Neilson walks you through how to switch from Photoshop or Sketch to Adobe XD.",
