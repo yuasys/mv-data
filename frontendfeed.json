@@ -1,6 +1,14 @@
 {
 	"feedgroup": [
 		{
+			"category": "Tools",
+			"feedlink": "https://brianhaferkamp.github.io/grid-maker/",
+			"feedtitle": "Grid Maker",
+			"feedcontent": "A tool to visually learn CSS Grid Layout. When you're done with your grid, you can export the HTML and CSS to add into your project. Supports the repeat() and minmax() methods.",
+			"feedbutton": "https://brianhaferkamp.github.io/grid-maker/",
+			"feedbuttontext": "Try It"
+		},
+		{
 			"category": "Link",
 			"feedlink": "https://css-tricks.com/notched-boxes/",
 			"feedtitle": "Create Notched Boxes Using CSS",
