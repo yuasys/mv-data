@@ -1,6 +1,14 @@
 {
 	"feedgroup": [
 		{
+			"category": "Video",
+			"feedlink": "https://www.youtube.com/playlist?list=PLqGj3iMvMa4L_PVMlG3_KIN5QTSaZwLnn",
+			"feedtitle": "Playlist: Getting Started With Adobe XD",
+			"feedcontent": "![image](assets/img/adobe-xd-playlist.png)\n\nA playlist from the DevTips for Designers channel on YouTube. Travis Neilson walks you through how to switch from Photoshop or Sketch to Adobe XD.",
+			"feedbutton": "https://www.youtube.com/playlist?list=PLqGj3iMvMa4L_PVMlG3_KIN5QTSaZwLnn",
+			"feedbuttontext": "Watch Videos"
+		},
+		{
 			"category": "Tools",
 			"feedlink": "https://brianhaferkamp.github.io/grid-maker/",
 			"feedtitle": "Grid Maker",
