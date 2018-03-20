@@ -2,6 +2,14 @@
 	"feedgroup": [
 		{
 			"category": "Link",
+			"feedlink": "https://css-tricks.com/notched-boxes/",
+			"feedtitle": "Create Notched Boxes Using CSS",
+			"feedcontent": "Chris Coyier of CSS-Tricks shows how to create a notched box effect using CSS that makes the corners of a box look cut off.",
+			"feedbutton": "https://css-tricks.com/notched-boxes/",
+			"feedbuttontext": "Read Article"
+		},
+		{
+			"category": "Link",
 			"feedlink": "https://timkadlec.com/remembers/2018-03-19-how-fast-is-amp-really/",
 			"feedtitle": "How Fast is AMP, Really?",
 			"feedcontent": "Tim Kadlec tests how fast Google AMP is by running 50 different news stories through a page speed test. The results are surprising.",
