@@ -1,6 +1,13 @@
 {
 	"feedgroup": [
 		{
+			"category": "Link",
+			"feedlink": "https://www.smashingmagazine.com/2018/03/ethical-design-practical-getting-started-guide/",
+			"feedtitle": "Ethical Design: The Practical Getting-Started Guide",
+			"feedbutton": "https://www.smashingmagazine.com/2018/03/ethical-design-practical-getting-started-guide/",
+			"feedbuttontext": "Read Article"
+		},
+		{
 			"category": "Tools",
 			"feedlink": "https://v-fonts.com/",
 			"feedtitle": "Variable Fonts Playground",
