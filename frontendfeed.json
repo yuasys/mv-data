@@ -2,6 +2,14 @@
 	"feedgroup": [
 		{
 			"category": "Link",
+			"feedlink": "https://uxplanet.org/a-primer-to-web-accessibility-for-designers-2c548448c612",
+			"feedtitle": "A Primer to Web Accessibility for Designers",
+			"feedcontent": "Web accessibility is the developer's and designer's responsibility. Here are some quick and easy ways to get started designing accessible websites.",
+			"feedbutton": "https://uxplanet.org/a-primer-to-web-accessibility-for-designers-2c548448c612",
+			"feedbuttontext": "Rread Article"
+		},
+		{
+			"category": "Link",
 			"feedlink": "https://www.smashingmagazine.com/2018/03/ethical-design-practical-getting-started-guide/",
 			"feedtitle": "Ethical Design: The Practical Getting-Started Guide",
 			"feedcontent": "Via Smashing Magazine:\n\n\"This article explains how unethical design happens, and how to do ethical design through a set of best practices. It also helps you understand how you can plant the seed to change the meaning within the company you work for and in the design community, even if you are not part of the management layer.\"",
