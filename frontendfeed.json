@@ -1,6 +1,14 @@
 {
 	"feedgroup": [
 		{
+			"category": "Video",
+			"feedlink": "https://youtu.be/SWYqp7iY_Tc",
+			"feedtitle": "Basics of Git & Github",
+			"feedcontent": "Brad Traversy takes you through an explanation of Git, how to use Git on the command line for your local repository, and how to push your changes to Github from the command line.",
+			"feedbutton": "https://youtu.be/SWYqp7iY_Tc",
+			"feedbuttontext": "Watch Video"
+		},
+		{
 			"category": "Link",
 			"feedlink": "https://uxplanet.org/a-primer-to-web-accessibility-for-designers-2c548448c612",
 			"feedtitle": "A Primer to Web Accessibility for Designers",
