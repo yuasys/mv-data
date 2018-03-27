@@ -2,6 +2,13 @@
 	"feedgroup": [
 		{
 			"category": "Link",
+			"feedlink": "https://designmodo.com/progress-step-ui/",
+			"feedtitle": "Progress Step UI Design Tips",
+			"feedbutton": "https://designmodo.com/progress-step-ui/",
+			"feedbuttontext": "Read Article"
+		},
+		{
+			"category": "Link",
 			"feedlink": "https://blog.prototypr.io/designer-tips-how-to-get-great-feedback-caf836f3101b",
 			"feedtitle": "Designer Tips: How to Get Great feedback",
 			"feedbutton": "https://blog.prototypr.io/designer-tips-how-to-get-great-feedback-caf836f3101b",
