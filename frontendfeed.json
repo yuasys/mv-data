@@ -2,6 +2,14 @@
 	"feedgroup": [
 		{
 			"category": "Link",
+			"feedlink": "https://onextrapixel.com/extra-large-footers/",
+			"feedtitle": "Effective Design Strategies for Extra Large Footers",
+			"feedcontent": "One Extra Pixel lays out some strategies for design and content in large website footers.",
+			"feedbutton": "https://onextrapixel.com/extra-large-footers/",
+			"feedbuttontext": "Read Article"
+		},
+		{
+			"category": "Link",
 			"feedlink": "https://designmodo.com/progress-step-ui/",
 			"feedtitle": "Progress Step UI Design Tips",
 			"feedbutton": "https://designmodo.com/progress-step-ui/",
