@@ -2,14 +2,6 @@
 	"feedgroup": [
 		{
 			"category": "Link",
-			"feedlink": "http://google.com",
-			"feedtitle": "New Link",
-			"feedcontent": "This is a cool new link that I'm sharing!",
-			"feedbutton": "http://google.com",
-			"feedbuttontext": "Call to Action"
-		},
-		{
-			"category": "Link",
 			"feedlink": "https://onextrapixel.com/extra-large-footers/",
 			"feedtitle": "Effective Design Strategies for Extra Large Footers",
 			"feedcontent": "One Extra Pixel lays out some strategies for design and content in large website footers.",
