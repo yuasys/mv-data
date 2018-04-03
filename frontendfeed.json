@@ -1,6 +1,14 @@
 {
 	"feedgroup": [
 		{
+			"category": "Video",
+			"feedlink": "https://youtu.be/eziREnZPml4",
+			"feedtitle": "Infinite Scroll Using JavaScript",
+			"feedcontent": "Adam Khoury shows how to create an infinite scroll script using some basic JavaScript.",
+			"feedbutton": "https://youtu.be/eziREnZPml4",
+			"feedbuttontext": "Watch Video"
+		},
+		{
 			"category": "Link",
 			"feedlink": "https://www.smashingmagazine.com/2018/04/finding-ux-research-participants/",
 			"feedtitle": "Finding UX Research Participants",
