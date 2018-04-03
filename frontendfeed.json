@@ -2,6 +2,14 @@
 	"feedgroup": [
 		{
 			"category": "Link",
+			"feedlink": "https://www.smashingmagazine.com/2018/04/finding-ux-research-participants/",
+			"feedtitle": "Finding UX Research Participants",
+			"feedcontent": "Learn how to find different types of research participants for gathering data in a UX/UI project.",
+			"feedbutton": "https://www.smashingmagazine.com/2018/04/finding-ux-research-participants/",
+			"feedbuttontext": "Read Article"
+		},
+		{
+			"category": "Link",
 			"feedlink": "https://onextrapixel.com/extra-large-footers/",
 			"feedtitle": "Effective Design Strategies for Extra Large Footers",
 			"feedcontent": "One Extra Pixel lays out some strategies for design and content in large website footers.",
