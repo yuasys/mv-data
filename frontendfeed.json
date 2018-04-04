@@ -2,6 +2,14 @@
 	"feedgroup": [
 		{
 			"category": "Video",
+			"feedlink": "https://youtu.be/wWEID0d6wfo",
+			"feedtitle": "What is Serverless?",
+			"feedcontent": "I didn't have a full understanding of serverless sites and apps. This helped me understand.",
+			"feedbutton": "https://youtu.be/wWEID0d6wfo",
+			"feedbuttontext": "Watch Video"
+		},
+		{
+			"category": "Video",
 			"feedlink": "https://youtu.be/eziREnZPml4",
 			"feedtitle": "Infinite Scroll Using JavaScript",
 			"feedcontent": "![image](assets/img/infinite-scroll-js.png)\nAdam Khoury shows how to create an infinite scroll script using some basic JavaScript.",
