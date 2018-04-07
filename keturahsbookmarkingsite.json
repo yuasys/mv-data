@@ -1,0 +1,12 @@
+{
+	"feedgroup": [
+		{
+			"feedtitle": "#",
+			"title": "Link Title",
+			"feeddescription": "Description here",
+			"category": [
+				"New Category"
+			]
+		}
+	]
+}
