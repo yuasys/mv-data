@@ -1,6 +1,14 @@
 {
 	"feedgroup": [
 		{
+			"category": "Link",
+			"feedlink": "https://medium.com/eightshapes-llc/buttons-in-design-systems-eac3acf7e23",
+			"feedtitle": "Buttons in Design Systems",
+			"feedcontent": "12 lessons learned to help make better buttons for design systems.",
+			"feedbutton": "https://medium.com/eightshapes-llc/buttons-in-design-systems-eac3acf7e23",
+			"feedbuttontext": "Read Article"
+		},
+		{
 			"category": "Video",
 			"feedlink": "https://youtu.be/wWEID0d6wfo",
 			"feedtitle": "What is Serverless?",
