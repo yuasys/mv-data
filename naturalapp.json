@@ -1,3 +1,8 @@
 {
-	"image": "https://i.pinimg.com/736x/ae/92/08/ae92084cfcdc1086d4e08bd93910f0d4--big-hair-beautiful-women.jpg"
+	"image": "https://i.pinimg.com/736x/ae/92/08/ae92084cfcdc1086d4e08bd93910f0d4--big-hair-beautiful-women.jpg",
+	"imagegroup": [
+		{
+			"image": "https://cdn.rawgit.com/brianhaferkamp/mv-data/fa0bfac558b659bcf28153a6a6f6d0a299a51749/images/memory-rescue-dr-oz.png"
+		}
+	]
 }
