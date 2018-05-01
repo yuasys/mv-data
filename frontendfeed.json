@@ -2,6 +2,14 @@
 	"feedgroup": [
 		{
 			"category": "Link",
+			"feedlink": "https://a16z.com/2012/06/15/good-product-managerbad-product-manager/",
+			"feedtitle": "Good Product Manager, Bad Product Manager",
+			"feedcontent": "An essay on what good and bad product managers do and say.",
+			"feedbutton": "https://a16z.com/2012/06/15/good-product-managerbad-product-manager/",
+			"feedbuttontext": "Read Article"
+		},
+		{
+			"category": "Link",
 			"feedlink": "https://theblog.adobe.com/15-rules-every-ux-designer-know/",
 			"feedtitle": "15 Rules Every UX Designer Should Know",
 			"feedcontent": "A list of 15 things to keep in mind when designing for users.",
