@@ -2,6 +2,14 @@
 	"feedgroup": [
 		{
 			"category": "Link",
+			"feedlink": "https://theblog.adobe.com/15-rules-every-ux-designer-know/",
+			"feedtitle": "15 Rules Every UX Designer Should Know",
+			"feedcontent": "A list of 15 things to keep in mind when designing for users.",
+			"feedbutton": "https://theblog.adobe.com/15-rules-every-ux-designer-know/",
+			"feedbuttontext": "Read Article"
+		},
+		{
+			"category": "Link",
 			"feedlink": "https://blog.prototypr.io/how-paper-wireframing-will-make-you-a-better-designer-5a57db8dca13",
 			"feedtitle": "How Paper Wireframing Will Make You a Better Designer",
 			"feedcontent": "From Medium. An article on the Why and How of doing your wireframing on a good old piece of paper.",
