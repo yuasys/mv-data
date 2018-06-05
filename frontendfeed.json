@@ -1,5 +1,15 @@
 {
 	"feedgroup": [
+		{},
+		{
+			"category": "Link",
+			"feedlink": "https://seesparkbox.com/foundry/when_not_to_use_a_design_system",
+			"feedtitle": "When Not to Build a Design System",
+			"feedcontent": "Some times when it doesnt make sense to build a full design system.",
+			"feedbutton": "https://seesparkbox.com/foundry/when_not_to_use_a_design_system",
+			"feedbuttontext": "Read Article"
+		},
+		{},
 		{
 			"category": "Link",
 			"feedlink": "https://a16z.com/2012/06/15/good-product-managerbad-product-manager/",
