@@ -1,5 +1,5 @@
 {
 	"postheadline": "A new post title",
 	"posttext": "This is our new intro text.",
-	"postembed": "<p data-height=\"265\" data-theme-id=\"dark\" data-slug-hash=\"wygMVz\" data-default-tab=\"html,result\" data-user=\"brianhaferkamp\" data-embed-version=\"2\" data-pen-title=\"skmmr // Mobile App\" class=\"codepen\">See the Pen <a href=\"https://codepen.io/brianhaferkamp/pen/wygMVz/\">skmmr // Mobile App</a> by Brian Haferkamp (<a href=\"https://codepen.io/brianhaferkamp\">@brianhaferkamp</a>) on <a href=\"https://codepen.io\">CodePen</a>.</p>"
+	"postembed": "<iframe height='265' scrolling='no' title='skmmr // Mobile App' src='//codepen.io/brianhaferkamp/embed/wygMVz/?height=265&theme-id=dark&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/brianhaferkamp/pen/wygMVz/'>skmmr // Mobile App</a> by Brian Haferkamp (<a href='https://codepen.io/brianhaferkamp'>@brianhaferkamp</a>) on <a href='https://codepen.io'>CodePen</a>.\n</iframe>"
 }
