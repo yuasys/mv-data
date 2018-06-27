@@ -6,7 +6,7 @@
 		{
 			"postheadline": "Post Number 2",
 			"posttext": "Here is the text for post 2",
-			"postembed": "[[[pen slug-hash='odxGLj' height='600' embed-version='1']]]"
+			"postembed": "[[pen slug-hash='odxGLj' height='600' embed-version='1']]"
 		},
 		{
 			"postheadline": "Some sample post headline",
