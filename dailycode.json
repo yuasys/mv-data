@@ -1,5 +1,15 @@
 {
 	"postheadline": "A new post title",
 	"posttext": "This is our new intro text.",
-	"postembed": "<iframe height='265' scrolling='no' title='skmmr // Mobile App' src='//codepen.io/brianhaferkamp/embed/wygMVz/?height=265&theme-id=dark&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/brianhaferkamp/pen/wygMVz/'>skmmr // Mobile App</a> by Brian Haferkamp (<a href='https://codepen.io/brianhaferkamp'>@brianhaferkamp</a>) on <a href='https://codepen.io'>CodePen</a>.\n</iframe>"
+	"postembed": "<iframe height='265' scrolling='no' title='skmmr // Mobile App' src='//codepen.io/brianhaferkamp/embed/wygMVz/?height=265&theme-id=dark&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/brianhaferkamp/pen/wygMVz/'>skmmr // Mobile App</a> by Brian Haferkamp (<a href='https://codepen.io/brianhaferkamp'>@brianhaferkamp</a>) on <a href='https://codepen.io'>CodePen</a>.\n</iframe>",
+	"postgroup": [
+		{
+			"postheadline": "Post Number 2",
+			"posttext": "Here is the text for post 2"
+		},
+		{
+			"postheadline": "Some sample post headline",
+			"posttext": "There was nothing so very remarkable in that; nor did Alice think it so very much out of the way to hear the Rabbit say to itself, ‘Oh dear! Oh dear! I shall be late!’ (when she thought it over afterwards, it occurred to her that she ought to have wondered at this, but at the time it all seemed quite natural); but when the Rabbit actually took a watch out of its waistcoat-pocket, and looked at it, and then hurried on, Alice started to her feet, for it flashed across her mind that she had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it, and burning with curiosity, she ran across the field after it, and fortunately was just in time to see it pop down a large rabbit-hole under the hedge."
+		}
+	]
 }
