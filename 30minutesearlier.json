@@ -1,13 +1,6 @@
 {
 	"day": [
 		{
-			"date": "December 7, 2018",
-			"heartrate": "122",
-			"workoutduration": "1:00:00",
-			"workoutdistance": "5.4",
-			"weight": "122"
-		},
-		{
 			"date": "December 5, 2018",
 			"heartrate": "144",
 			"workoutduration": "0:30:07",
