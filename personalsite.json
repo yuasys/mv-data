@@ -7,7 +7,10 @@
 	"social_item": [
 		{
 			"social_link": "#",
-			"social_icon": "https://assets.codepen.io/495197/icons8-linkedin.svg"
+			"social_icon": "https://assets.codepen.io/495197/icons8-instagram+%281%29.svg"
+		},
+		{
+			"social_icon": "https://assets.codepen.io/495197/icons8-twitter+%282%29.svg"
 		}
 	]
 }
