@@ -4,8 +4,10 @@
 	"profile_title": "Front End Web Developer",
 	"profile_text": "<p>Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, &lsquo;and what is the use of a book,&rsquo; thought Alice &lsquo;without pictures or conversations?&rsquo;</p>",
 	"profile_social_headline": "Connect",
-	"social_item": {
-		"social_link": "#",
-		"social_icon": "https://assets.codepen.io/495197/icons8-linkedin.svg"
-	}
+	"social_item": [
+		{
+			"social_link": "#",
+			"social_icon": "https://assets.codepen.io/495197/icons8-linkedin.svg"
+		}
+	]
 }
