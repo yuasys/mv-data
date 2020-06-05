@@ -6,13 +6,15 @@
 	"profile_social_headline": "Connect",
 	"social_item": [
 		{
-			"social_link": "#",
+			"social_link": "https://twitter.com/brianhaferkamp",
 			"social_icon": "icons/twitter-filled.png"
 		},
 		{
+			"social_link": "https://facebook.com/jbhaferkamp",
 			"social_icon": "icons/facebook-filled.png"
 		},
 		{
+			"social_link": "https://youtube.com/jbhaferkamp",
 			"social_icon": "icons/youtube-filled.png"
 		}
 	]
