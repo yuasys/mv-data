@@ -6,13 +6,13 @@
 	"profile_social_headline": "Let's Get Social!",
 	"social_item": [
 		{
+			"social_link": "https://www.youtube.com/channel/UCiwvLFLe1xjQO9v7uPxKAnQ"
+		},
+		{
 			"social_link": "https://twitter.com/brianhaferkamp"
 		},
 		{
 			"social_link": "https://facebook.com/jbhaferkamp"
-		},
-		{
-			"social_link": "https://www.youtube.com/channel/UCiwvLFLe1xjQO9v7uPxKAnQ"
 		}
 	]
 }
